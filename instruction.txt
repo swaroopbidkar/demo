@@ -41,3 +41,11 @@ git branch -M main
 
 //to push origin main 
 git push origin main
+
+
+//gitHub rep
+//clone
+//changes
+//add
+//commit
+//push
