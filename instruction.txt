@@ -49,3 +49,46 @@ git push origin main
 //add
 //commit
 //push
+
+
+//for creating branch 
+git checkout -b feature1
+
+//for switching branch 
+git checkout main
+
+//for deleting branch 
+git branch -d feature1
+
+//for pushing on another branch
+git push origin feature1
+
+
+//for diff of two branch
+git  diff <branchName>
+
+//for merge 
+gir merge <branchName>
+
+
+//pull request 
+git pull origin main
+
+
+//for resetting 
+git reset
+
+//single file resetting
+git reset filename
+
+//one step back 
+git reset HEAD1
+
+//reset at perticular stage
+git reset <hashValue>
+
+//for changes in editor
+git reset --hard<hashValue>
+
+
+
